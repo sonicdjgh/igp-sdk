@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD1835D8-C381-480E-8A03-EAA876729CEE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EGLSSDK_Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ADD6DFCF-4F00-46AA-A8F2-634B17939601</key>
+		<string>https://192.168.0.188:8443/svn/mmo2010002/branch/client/EGLSSDK_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EGLSSDK_v/EGLSSDK_Demo/EGLSSDK_Demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ADD6DFCF-4F00-46AA-A8F2-634B17939601</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>ADD6DFCF-4F00-46AA-A8F2-634B17939601</key>
+		<string>https://192.168.0.188:8443/svn/mmo2010002</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.0.188:8443/svn/mmo2010002/branch/client/EGLSSDK_IOS/EGLSSDK_v/EGLSSDK_Demo/EGLSSDK_Demo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ADD6DFCF-4F00-46AA-A8F2-634B17939601</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ADD6DFCF-4F00-46AA-A8F2-634B17939601</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EGLSSDK_IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
