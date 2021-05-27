@@ -1,0 +1,6 @@
+framework module EglsAdvertiser {
+  umbrella header "EglsAdvertiser.h"
+
+  export *
+  module * { export * }
+}
